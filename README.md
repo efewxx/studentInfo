@@ -1,6 +1,8 @@
 # StudentInfo
 
-## <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/63b36f14-92f1-40c3-b8f5-9c01a60ffa48" />
+## <img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/da1043a4-e5dc-4adc-a5ff-150d48dc88a4" />
+
+
 
 **Student Management Hub** is a modern Student Information System (SIS) designed to bridge the communication gap between educators and students. It provides a centralized platform for managing academic records, tracking attendance, and monitoring student progress in real-time.
 
